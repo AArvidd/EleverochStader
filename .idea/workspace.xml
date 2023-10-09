@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aec4a076-863a-47a2-ab45-b2c2ef851f50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elever och Stader.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="aec4a076-863a-47a2-ab45-b2c2ef851f50" name="Changes" comment="Started and done 9/10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +55,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696838163966</updated>
-      <workItem from="1696838165181" duration="1613000" />
+      <workItem from="1696838165181" duration="1930000" />
     </task>
+    <task id="LOCAL-00001" summary="Started and done 9/10">
+      <option name="closed" value="true" />
+      <created>1696839957558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696839957558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started and done 9/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started and done 9/10" />
   </component>
 </project>
